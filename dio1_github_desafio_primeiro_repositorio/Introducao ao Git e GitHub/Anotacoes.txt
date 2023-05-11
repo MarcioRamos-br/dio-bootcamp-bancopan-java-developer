@@ -1,0 +1,5 @@
+
+Link para download do Git para Mac:
+https://git-scm.com/download/mac
+
+O Git Bash é um terminal extendido para otimizar o uso do Git
